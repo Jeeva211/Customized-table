@@ -1,0 +1,138 @@
+
+.main_header>p{
+    margin-top: 50px;
+    margin-left: 100px;
+    opacity: 100%;
+    font: normal normal bold 18px/22px Lato;
+    
+   }
+   
+   .forms{
+     display: flex;
+   }
+   .forms>input{
+     margin-top: 10px;
+     margin-left: 100px;
+     width: 170px;
+     height: 30px;
+     /* UI Properties */
+     border: 1px solid #70707038;
+     border-radius: 4px;
+   }
+   
+   .forms>button{
+     margin-left: 1355px;
+     height: 30px;
+     margin-top: 10px;  
+     border-radius: 0%;
+   
+     text-align: center;
+     font: normal normal bold 15px/20px Lato;
+     letter-spacing: 0.27px;
+     color: #1D1A1A;
+     opacity: 1;
+     font-size: small;
+     position: absolute;
+     background-color: white;
+     text-transform: lowercase;
+       
+   }
+
+   .rectangle_box_button{
+    margin-left: 15px;
+   
+  }
+
+   
+   
+   .rectangle_box{
+     margin-top: 10px;
+   margin-left: 100px;
+   width: 1350px;
+   height: 170px;
+   border: 1px solid #EAEAEA;
+   border-radius: 4px;
+   opacity: 1;
+   }
+   
+   .rectangle_box>p{
+     font: normal normal bold 12px/15px Lato;
+     margin-top: 14px;
+     margin-left: 15px;
+   }
+   
+   
+   
+   .bt1{
+     
+     width: 150px;
+     height: 30px;
+     text-align: left;
+   }
+   
+   .bt2{
+     margin-left: 10px;
+     width: 150px;
+     height: 30px;
+     text-align: left;
+   }
+   
+   .bt3{
+     margin-left: 10px;
+     width: 150px;
+     height: 30px;
+     text-align: left;
+   }
+   
+   .bt4{
+     margin-left: 10px;
+     width: 150px;
+     height: 30px;
+     text-align: left;
+   }
+   
+   .bt5{
+     margin-left: 10px;
+     width: 150px;
+     height: 30px;
+     text-align: left;
+   }
+   
+   .bt6{
+     margin-left: 10px;
+     width: 150px;
+     height: 30px;
+     text-align: left;
+   }
+   
+   .bt7{
+     margin-left: 10px;
+     width: 150px;
+     height: 30px;
+     text-align: left;
+   }
+   
+   .bt8{
+     margin-left: 10px;
+     width: 150px;
+     height: 30px;
+     text-align: left;
+   }
+   
+   .bt9{
+     margin-top: 10px;
+     margin-left: 0px;
+     width: 150px;
+     height: 30px;
+     text-align: left;
+   }
+   
+   .close-bt{
+     display: flex;
+     margin-left: 1110px;
+   }
+   
+   .close-bt1{
+     margin-right: 10px;
+   }
+   
